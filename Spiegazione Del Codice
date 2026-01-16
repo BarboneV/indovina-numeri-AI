@@ -1,1 +1,29 @@
+📦 Importazione del modulo random per generare numeri casuali
 
+🎲 Generazione di un numero segreto casuale compreso tra 1 e 100
+
+🔢 Inizializzazione del contatore dei tentativi a 0
+
+🚩 Inizializzazione della variabile booleana indovinato a False
+
+📢 Visualizzazione del messaggio iniziale per l’utente
+
+🔄 Avvio di un ciclo while che continua finché il numero non viene indovinato
+
+⌨️ Richiesta all’utente di inserire un numero
+
+➕ Incremento del contatore dei tentativi
+
+🔍 Confronto tra il numero inserito e il numero segreto:
+
+⬇️ Se il numero inserito è minore del numero segreto → messaggio “Troppo basso”
+
+⬆️ Se il numero inserito è maggiore del numero segreto → messaggio “Troppo alto”
+
+✅ Se il numero inserito è uguale al numero segreto:
+
+🔁 Impostazione di indovinato = True
+
+🛑 Uscita dal ciclo
+
+🎉 Visualizzazione del numero totale di tentativi effettuati
